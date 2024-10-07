@@ -21,7 +21,7 @@ def isDivisibleBy(x, a):
   else:
     return False
   
-# is x even?
+# even
 def isEvenNumber(x):
   if x%2 ==0:
     return True
